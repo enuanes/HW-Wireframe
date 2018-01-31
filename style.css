@@ -1,0 +1,100 @@
+/**
+ * Homework Assignment #1
+ **/
+
+ * {
+     box-sizing: border-box;
+     text-align: center;
+ }
+
+ .container {
+     background: #777;
+     content: #ebebeb;
+     font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+     font-size: 18px;
+     width: 960px;
+     margin-left: 150px;
+     margin-right: 175px;
+ }
+ 
+ header {
+     background: #ebebeb;
+     color: #777;
+     padding: 30px;
+     width: 960px;
+ }
+
+ #Under-Header {
+     background: #ebebeb;
+     color: #777;
+     padding: 30px;
+     margin-top: 10px;
+ }
+
+ #section {
+     background: #ebebeb;
+     color: #777;
+     padding: 30px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     width: 545px;
+     height: 260px;
+     position: relative;
+     float: left;
+ }
+
+ #article {
+     background: #777;
+     color: #ebebeb;
+     position: relative;
+     right: 10px;
+     padding-top: 10px;
+     height: 180px;
+     width: 525px;
+     margin-top: 20px;
+     margin-left: -10px;
+ }
+
+ #subs {
+     background: #ebebeb;
+     color: #777;
+     position: relative;
+     height: 50px;
+     margin-top: 20px;
+     margin-bottom: 10px;
+     margin-left: 20px;
+     padding-top: 10px;
+     width: 480px;
+ }
+
+ #paragraph {
+     background: #ebebeb;
+     color: #777;
+     position: relative;
+     height: 50px;
+     width: 480px;
+     padding-top: 10px;
+     margin-left: 20px;
+ }
+
+ #aside {
+     background: #ebebeb;
+     color: #777;
+     width: 395px;
+     float: right;
+     height: 260px;
+     margin-top: 20px;
+     padding: 30px;
+     margin-bottom: 20px;
+ }
+
+ #footer {
+     clear: both;
+     background: #ebebeb;
+     color: #777;
+     height: 80px;
+     margin-top: 50px;
+     padding: 20px;
+ }
+ 
+ 
